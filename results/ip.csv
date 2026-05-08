@@ -1,21 +1,51 @@
 IP地址,端口号,TLS,网络延迟,下载速度,出站IP,IP类型,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-8.209.231.3,443,true,51ms,-,240b:4009:25a:1801:ffff:2fbb:3f38:6beb,IPv6,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-47.83.14.42,8443,true,52ms,-,240b:4001:22a:d400:9ea6:f63a:7aaa:f612,IPv6,TPE,HK,Asia Pacific,Taipei,AS45102,"Alibaba US Technology Co., Ltd."
-152.32.133.246,443,true,55ms,-,152.32.133.246,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-8.216.5.125,2083,true,62ms,-,8.216.5.125,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-38.190.210.250,443,true,62ms,-,38.190.210.250,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS133199,SonderCloud Limited
-43.168.16.112,443,true,63ms,-,43.175.115.168,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS139341,ACE
-52.193.152.140,443,true,63ms,-,2406:da14:13c4:b200:1eb:5846:a88e:9e07,IPv6,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-8.216.5.125,443,true,64ms,-,8.216.5.125,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-54.64.133.73,443,true,64ms,-,2406:da14:185f:8b00:b247:8675:53fe:7208,IPv6,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+47.83.14.42,8443,true,41ms,-,240b:4001:22a:d400:9ea6:f63a:7aaa:f612,IPv6,TPE,HK,Asia Pacific,Taipei,AS45102,"Alibaba US Technology Co., Ltd."
+152.32.133.246,443,true,52ms,-,152.32.133.246,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+68.64.176.135,443,true,54ms,-,68.64.176.135,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS139659,LUCIDACLOUD LIMITED
+122.10.119.252,443,true,60ms,-,2404:8c80:85:1067::4f,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS55933,Cloudie Limited
+8.223.63.189,443,true,61ms,-,47.239.228.128,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba US Technology Co., Ltd."
+52.193.152.140,443,true,62ms,-,2406:da14:13c4:b200:1eb:5846:a88e:9e07,IPv6,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
 54.65.254.1,443,true,65ms,-,2406:da14:15d4:cf00:a4d:3e20:3699:a68b,IPv6,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-8.223.63.150,443,true,66ms,-,47.83.111.172,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba US Technology Co., Ltd."
-8.216.5.125,2096,true,66ms,-,8.216.5.125,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-8.223.63.189,443,true,68ms,-,47.83.111.176,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba US Technology Co., Ltd."
-122.10.119.252,443,true,68ms,-,2404:8c80:85:1067::4f,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS55933,Cloudie Limited
-68.64.176.135,443,true,68ms,-,68.64.176.135,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS139659,LUCIDACLOUD LIMITED
-8.219.155.125,443,true,72ms,-,8.221.173.58,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-52.77.224.71,443,true,78ms,-,2406:da18:78e:b100:315a:8691:6db2:c985,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-54.151.227.203,443,true,79ms,-,2406:da18:78e:b100:2f6f:57f9:af60:b101,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-3.1.116.161,2053,true,81ms,-,3.1.116.161,IPv4,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-114.33.57.170,443,true,85ms,-,2001:b011:e607:1c72::5e0,IPv6,TPE,TW,Asia Pacific,Taipei,AS3462,Data Communication Business Group
+8.223.63.150,443,true,67ms,-,47.239.228.128,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba US Technology Co., Ltd."
+8.216.5.125,2096,true,67ms,-,8.216.5.125,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
+43.168.16.112,443,true,70ms,-,43.175.115.168,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS139341,ACE
+8.209.231.3,443,true,72ms,-,240b:4009:25a:1801:ffff:2fbb:3f38:6beb,IPv6,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
+103.78.133.103,443,true,73ms,-,103.78.133.103,IPv4,ICN,KR,Asia Pacific,Seoul,AS45996,DAOU TECHNOLOGY
+8.216.5.125,2083,true,73ms,-,8.216.5.125,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
+8.216.5.125,443,true,75ms,-,8.216.5.125,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
+54.151.227.203,443,true,76ms,-,2406:da18:78e:b100:2f6f:57f9:af60:b101,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+114.33.57.170,443,true,79ms,-,2001:b011:e607:1c72::5e0,IPv6,TPE,TW,Asia Pacific,Taipei,AS3462,Data Communication Business Group
+54.64.133.73,443,true,82ms,-,2406:da14:185f:8b00:b247:8675:53fe:7208,IPv6,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
+52.220.111.120,443,true,82ms,-,2406:da18:1bc3:9e00:957b:ad4a:37a5:de67,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+3.1.116.161,2053,true,84ms,-,3.1.116.161,IPv4,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+8.219.155.125,443,true,86ms,-,8.221.173.55,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
+3.1.116.161,8443,true,87ms,-,3.1.116.161,IPv4,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+216.23.86.110,8443,true,88ms,-,2a13:edc0:24:266::a,IPv6,NRT,JP,Asia Pacific,Tokyo,AS216211,Cyberverse LLC
+52.76.97.123,443,true,89ms,-,2406:da18:1979:5f00:9793:b9af:3f31:359,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+85.211.240.247,443,true,89ms,-,85.211.240.247,IPv4,KUL,MY,Asia Pacific,Kuala Lumpur,AS8075,Microsoft Corporation
+96.126.190.196,443,true,89ms,-,2400:8d60:3::5e:93f8,IPv6,KUL,MY,Asia Pacific,Kuala Lumpur,AS149440,Evoxt Sdn. Bhd.
+52.76.0.44,443,true,89ms,-,2406:da18:1d14:6072:5b4c:df23:d8f3:30fc,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+52.77.224.71,443,true,91ms,-,2406:da18:78e:b100:315a:8691:6db2:c985,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+158.180.72.60,443,true,91ms,-,158.180.72.60,IPv4,ICN,KR,Asia Pacific,Seoul,AS31898,Oracle Corporation
+54.254.75.107,443,true,95ms,-,2406:da18:1c75:8400:8aa3:9d92:faa:43d9,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
+23.27.28.216,8443,true,95ms,-,2400:8d60:3::5865:dace,IPv6,KUL,MY,Asia Pacific,Kuala Lumpur,AS149440,Evoxt Sdn. Bhd.
+168.107.13.136,8443,true,98ms,-,168.107.13.136,IPv4,ICN,KR,Asia Pacific,Seoul,AS31898,Oracle Corporation
+144.24.73.232,443,true,99ms,-,144.24.73.232,IPv4,ICN,KR,Asia Pacific,Seoul,AS31898,Oracle Corporation
+134.185.97.168,443,true,99ms,-,134.185.97.168,IPv4,ICN,KR,Asia Pacific,Seoul,AS31898,Oracle Corporation
+163.5.58.77,443,true,102ms,-,2400:f880:d5d:8aa6::8,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS42960,VH Global Limited
+43.200.87.5,443,true,112ms,-,2406:da12:faf:7b00:689e:fec4:89ba:1a38,IPv6,ICN,KR,Asia Pacific,Seoul,AS16509,"Amazon.com, Inc."
+52.141.25.42,443,true,112ms,-,52.141.25.42,IPv4,ICN,KR,Asia Pacific,Seoul,AS8075,Microsoft Corporation
+65.52.160.128,8443,true,130ms,-,65.52.160.128,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS8075,Microsoft Corporation
+4.240.110.47,443,true,136ms,-,4.240.110.47,IPv4,BOM,IN,Asia Pacific,Mumbai,AS8075,Microsoft Corporation
+202.61.75.80,8443,true,137ms,-,2400:8d60:3::1:e95e:732,IPv6,KUL,MY,Asia Pacific,Kuala Lumpur,AS149440,Evoxt Sdn. Bhd.
+109.71.242.243,8443,true,137ms,-,109.71.242.243,IPv4,DME,RU,Europe,Moscow,AS57494,Adman LLC
+138.2.85.81,2083,true,139ms,-,2405:9800:b910:6466:be24:11ff:fedd:3788,IPv6,SIN,TH,Asia Pacific,Singapore,AS133481,AIS Fibre
+147.45.147.212,8443,true,139ms,-,147.45.147.212,IPv4,DME,RU,Europe,Moscow,AS57494,Adman LLC
+98.70.26.236,443,true,140ms,-,98.70.26.236,IPv4,BOM,IN,Asia Pacific,Mumbai,AS8075,Microsoft Corporation
+205.186.64.235,8443,true,142ms,-,205.186.64.235,IPv4,KUL,MY,Asia Pacific,Kuala Lumpur,AS149440,Evoxt Sdn. Bhd.
+147.45.147.212,2053,true,146ms,-,147.45.147.212,IPv4,DME,RU,Europe,Moscow,AS57494,Adman LLC
+20.235.105.146,443,true,153ms,-,20.235.105.146,IPv4,BOM,IN,Asia Pacific,Mumbai,AS8075,Microsoft Corporation
+64.186.224.137,443,true,157ms,-,2605:52c0:2:3a85:2c7a:91ff:fe0e:8918,IPv6,LAX,US,North America,Los Angeles,AS906,DMIT Cloud Services
+47.250.212.59,443,true,158ms,-,47.250.212.59,IPv4,SIN,MY,Asia Pacific,Singapore,AS45102,"Alibaba US Technology Co., Ltd."
+80.87.105.225,8443,true,158ms,-,80.87.105.225,IPv4,WAW,RU,Europe,Warsaw,AS44128,Internet-Pro LLC
+47.254.231.133,443,true,160ms,-,47.254.231.133,IPv4,KUL,MY,Asia Pacific,Kuala Lumpur,AS45102,"Alibaba US Technology Co., Ltd."
