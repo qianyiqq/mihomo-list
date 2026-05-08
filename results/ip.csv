@@ -1,21 +1,21 @@
-IP地址,端口号,TLS,网络延迟,下载速度,出站IP,IP类型,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-47.242.28.106,443,true,55ms,-,2401:c080:3800:2097:5400:5ff:feeb:9e0b,IPv6,KIX,JP,Asia Pacific,Osaka,AS20473,"The Constant Company, LLC"
-152.32.133.246,443,true,58ms,-,152.32.133.246,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-68.64.176.135,443,true,58ms,-,68.64.176.135,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS139659,LUCIDACLOUD LIMITED
-8.223.63.150,443,true,58ms,-,47.83.111.173,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba US Technology Co., Ltd."
-38.147.187.14,443,true,58ms,-,2401:2660:1000:15a6:8a32:b645:26a3:1a65,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS932,XNNET LLC
-45.133.239.149,8443,true,58ms,-,2001:df5:8300:8004::52,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS6134,XNNET LLC
-47.243.183.61,443,true,59ms,-,47.243.183.61,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba US Technology Co., Ltd."
-8.216.5.125,2087,true,59ms,-,8.216.5.125,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-8.223.63.189,443,true,60ms,-,47.83.111.172,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba US Technology Co., Ltd."
-122.10.119.252,443,true,63ms,-,2404:8c80:85:1067::4f,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS55933,Cloudie Limited
-8.209.231.3,443,true,67ms,-,240b:4009:25a:1801:ffff:2fbb:3f38:6beb,IPv6,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-47.239.231.121,443,true,68ms,-,47.239.231.121,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS45102,"Alibaba US Technology Co., Ltd."
-114.33.57.170,443,true,73ms,-,2001:b011:e607:1c72::5e0,IPv6,TPE,TW,Asia Pacific,Taipei,AS3462,Data Communication Business Group
-8.216.5.125,8443,true,74ms,-,8.216.5.125,IPv4,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-54.254.75.107,443,true,76ms,-,2406:da18:1c75:8400:8aa3:9d92:faa:43d9,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-54.151.227.203,443,true,76ms,-,2406:da18:78e:b100:2f6f:57f9:af60:b101,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-150.109.11.223,443,true,79ms,-,150.109.11.223,IPv4,SIN,SG,Asia Pacific,Singapore,AS132203,"Tencent Building, Kejizhongyi Avenue"
-103.78.133.103,443,true,79ms,-,103.78.133.103,IPv4,ICN,KR,Asia Pacific,Seoul,AS45996,DAOU TECHNOLOGY
-52.77.224.71,443,true,82ms,-,2406:da18:78e:b100:315a:8691:6db2:c985,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-168.107.13.136,8443,true,83ms,-,168.107.13.136,IPv4,ICN,KR,Asia Pacific,Seoul,AS31898,Oracle Corporation
+IP地址,端口号,网络延迟,数据中心,地区,城市
+172.67.66.14,443,123ms,HKG,Asia Pacific,Hong Kong
+172.67.65.199,443,124ms,HKG,Asia Pacific,Hong Kong
+172.67.70.228,443,124ms,HKG,Asia Pacific,Hong Kong
+104.20.17.255,443,125ms,HKG,Asia Pacific,Hong Kong
+104.20.22.108,443,126ms,HKG,Asia Pacific,Hong Kong
+104.20.16.79,443,127ms,HKG,Asia Pacific,Hong Kong
+104.26.8.154,443,127ms,HKG,Asia Pacific,Hong Kong
+172.67.74.197,443,127ms,HKG,Asia Pacific,Hong Kong
+172.67.71.137,443,128ms,HKG,Asia Pacific,Hong Kong
+104.26.15.65,443,130ms,HKG,Asia Pacific,Hong Kong
+104.26.14.139,443,130ms,HKG,Asia Pacific,Hong Kong
+104.20.24.209,443,131ms,HKG,Asia Pacific,Hong Kong
+104.20.23.243,443,131ms,HKG,Asia Pacific,Hong Kong
+104.20.26.57,443,132ms,HKG,Asia Pacific,Hong Kong
+104.26.12.55,443,132ms,HKG,Asia Pacific,Hong Kong
+172.67.77.104,443,132ms,HKG,Asia Pacific,Hong Kong
+172.67.68.241,443,133ms,HKG,Asia Pacific,Hong Kong
+172.67.73.167,443,133ms,HKG,Asia Pacific,Hong Kong
+172.67.69.92,443,133ms,HKG,Asia Pacific,Hong Kong
+104.20.21.98,443,134ms,HKG,Asia Pacific,Hong Kong
